@@ -11,6 +11,7 @@
 課程筆記區
 
 作業連結區
-［十個問題］(https://github.com/bobodonkey/plrepo/blob/main/week2%20%E7%B7%B4%E7%BF%92%20%E5%8D%81%E5%80%8B%E5%95%8F%E9%A1%8C.ipynb)
+［十個問題(https://github.com/bobodonkey/plrepo/blob/main/week2%20%E7%B7%B4%E7%BF%92%20%E5%8D%81%E5%80%8B%E5%95%8F%E9%A1%8C.ipynb)］
 ［圖表練習］(https://github.com/bobodonkey/plrepo/blob/main/week4%20%E5%9C%96%E8%A1%A8%E7%B7%B4%E7%BF%92.ipynb)
+
 專題連結區
