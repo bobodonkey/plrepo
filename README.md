@@ -15,5 +15,6 @@
 <p><a href="https://github.com/bobodonkey/plrepo/blob/main/week2%20%E7%B7%B4%E7%BF%92%20%E5%8D%81%E5%80%8B%E5%95%8F%E9%A1%8C.ipynb"target="_blank">HW1</a><p>
 <p><a href="https://github.com/bobodonkey/plrepo/blob/main/week4%20%E5%9C%96%E8%A1%A8%E7%B7%B4%E7%BF%92.ipynb"target="_blank">HW2</a><p>
 <p><a href="http://localhost:8888/notebooks/Documents/GitHub/PL/%E7%B7%B4%E7%BF%92%E4%B8%80.ipynb"target="_blank">jason練習</a><p>
+<p><a href="http://localhost:8888/notebooks/Documents/GitHub/PL/HW4.ipynb"target="_blank">HW4</a><p>
 
 專題連結區
